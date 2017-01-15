@@ -1,5 +1,7 @@
 body {
-    background: #f5f5f5  url("img/background.jpg") repeat 0 0;
+    background: #f5f5f5  url("img/background.jpg");
+    background-size: cover;
+    text-align: center;
 }
 
 .container {
@@ -40,14 +42,12 @@ body {
 
 h1 {
     font-size: 70px;
-    text-align: center;
     color: white;
     text-shadow: 0 0 10px black;
 }
 
 h2 {
     font-size: 30px;
-    text-align: center;
     color: white;
     text-shadow: 0 0 10px black;
 }
