@@ -1,34 +1,33 @@
 # TODO
 
-- [x] Js drum kit (15.01)
-- [ ] CSS + JS Clock (16.01)
-- [ ] CSS variables and JS (17.01)
-- [ ] Array cardio day 1 (18.01)
-- [ ] Flex panels image gallery (19.01)
-- [ ] Ajax type ahead (20.01)
-- [ ] Array cardio day 2 (21.01)
-- [ ] HTML5 canvas (22.01)
-- [ ] Dev tools tricks (23.01)
-- [ ] Hold shift and check multiple checkboxes (24.01)
-- [ ] Custom HTML5 video player (25.01)
-- [ ] Key sequence detection (26.01)
-- [ ] Slide in on scroll (27.01)
-- [ ] Objects and arrays (28.01)
-- [ ] Local storage and event delegation (29.01)
-- [ ] CSS text shadow mouse effect (30.01)
-- [ ] Sorting Band Names without articles (31.01)
-- [ ] Tally String Times with Reduce (01.02)
-- [ ] Webcam fun (02.02)
-- [ ] Speech recognition (03.02)
-- [ ] Geolocation (04.02)
-- [ ] Follow Along Links (05.02)
-- [ ] Speech synthesis (06.02)
-- [ ] Sticky nav (07.02)
-- [ ] Event Capture, Propagation, Bubbling and Once (08.02)
-- [ ] Stripe Follow Along Dropdown (09.02)
-- [ ] Click and Drag to Scroll (10.02)
-- [ ] Video Speed Controller UI (11.02)
-- [ ] Countdown Clock (12.02)
-- [ ] Whack A Mole Game (13.02)
+- [x] Js drum kit
+- [x] CSS + JS Clock
+- [x] CSS variables and JS
+- [x] Flex panels image gallery
+- [ ] Ajax type ahead
+- [ ] Array cardio day 2
+- [ ] HTML5 canvas
+- [ ] Dev tools tricks
+- [ ] Hold shift and check multiple checkboxes
+- [ ] Custom HTML5 video player
+- [ ] Key sequence detection
+- [ ] Slide in on scroll
+- [ ] Objects and arrays
+- [ ] Local storage and event delegation
+- [ ] CSS text shadow mouse effect
+- [ ] Sorting Band Names without articles
+- [ ] Tally String Times with Reduce
+- [ ] Webcam fun 
+- [ ] Speech recognition
+- [ ] Geolocation
+- [ ] Follow Along Links
+- [ ] Speech synthesis
+- [ ] Sticky nav
+- [ ] Event Capture, Propagation, Bubbling and Once
+- [ ] Stripe Follow Along Dropdown
+- [ ] Click and Drag to Scroll
+- [ ] Video Speed Controller UI 
+- [ ] Countdown Clock
+- [ ] Whack A Mole Game
 
 <a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/logo-220x1601.png" alt="WTFPL" /></a>
