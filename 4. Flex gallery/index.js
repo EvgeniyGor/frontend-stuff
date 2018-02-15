@@ -1,7 +1,5 @@
-document.onload = function () {
+window.onload = function () {
     const panels = document.querySelectorAll('.panel');
-
-    console.log(panels);
 
     const toggleOpen = (event) => {
         if (event.target.tagName.toLowerCase() === 'div') {
@@ -20,4 +18,4 @@ document.onload = function () {
 
     panels.forEach(panel => panel.addEventListener('click', toggleOpen));
     panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
-}();
+};
